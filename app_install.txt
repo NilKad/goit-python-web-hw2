@@ -1,0 +1,4 @@
+docker build . -t nilkad/goit-python-web-hw2
+
+docker run -it nilkad/goit-python-web-hw2:latest
+
